@@ -62,7 +62,7 @@ export default function FunctionBase() {
           setObjPerson(obj);
         }}
       >
-        Change 2nd index
+        Change 2 Properties
       </button>
       <hr />
     </div>
